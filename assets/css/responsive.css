@@ -1,0 +1,9 @@
+@media (max-width: 1250px){
+    #wrapper{
+        display: none;
+    }
+
+    #notification-phone{
+        display: block;
+    }
+}
